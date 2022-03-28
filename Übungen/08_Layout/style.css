@@ -1,0 +1,21 @@
+html {
+    color: rgb(77, 24, 24);
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
+}
+
+ul li {
+    padding: 20px;
+    padding-left: 0;
+}
+
+div.container {
+    display: flex;
+}
