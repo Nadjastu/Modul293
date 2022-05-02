@@ -1,0 +1,45 @@
+html {
+    background-color: aqua;
+}
+
+@media screen and (min-width: 580px) {
+    html {
+        background-color: black;
+    }
+}
+
+@media screen and (min-width: 660px) {
+    html {
+        background-color: green;
+    }
+}
+
+@media screen and (min-width: 720px) {
+    html {
+        background-color: blue;
+    }
+}
+
+@media screen and (min-width: 880px) {
+    html {
+        background-color: red;
+    }
+}
+
+@media screen and (min-width: 1040px) {
+    html {
+        background-color: yellow;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    html {
+        background-color: orange;
+    }
+}
+
+@media landscape and (min-width: 460px) {
+    html {
+        background-color: darkmagenta;
+    }
+}
